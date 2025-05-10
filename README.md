@@ -5,7 +5,7 @@
 
 
 ---
-- 🔭 I’m currently learning on **Spring Boot**
+- 🔭 I’m currently learning on **Object oriented programming**
 
 - 🌱 I’m undergraduate at **SLIIT**
 
